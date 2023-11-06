@@ -1,0 +1,11 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "DefaultEndpointsProtocol=https;AccountName=prj2dpt03112023;AccountKey=Ansob1CH9vbv/Z+p9tc1ac9YUq0y80luPjhPpD2lZfWAVgFR1W6wE/uElusCjsQ5ZtyATBs+YBQo+ASt+oT3jQ==;EndpointSuffix=core.windows.net",
+    "FUNCTIONS_WORKER_RUNTIME": "python",
+    "FUNCTIONS_EXTENSION_VERSION": "~3",
+    "WEBSITE_CONTENTAZUREFILECONNECTIONSTRING": "DefaultEndpointsProtocol=https;AccountName=prj2dpt03112023;AccountKey=GN5WDNSgH9J/NrPa2X7T2YOCwEY2X3XAajEM7aX+VOutip3i3Rdn3LHejk7lGrERNE+UFOeEFlLl+AStKDutLg==;EndpointSuffix=core.windows.net",
+    "WEBSITE_CONTENTSHARE": "user187903functionapp87bca3c1ba7d",
+    "MyDbConnection": "mongodb://azurecosmosdblab2:iWI6kYMzKn2XDMZOgqFYCuutzLsUGIHLkEB8h6sru2tJfOsrbbPusKLseCJ0iyZd0qIsASAIwtFob4ear31b7g==@azurecosmosdblab2.mongo.cosmos.azure.com:10255/?ssl=true&replicaSet=globaldb&retrywrites=false&maxIdleTimeMS=120000&appName=@azurecosmosdblab2@"
+  }
+}
